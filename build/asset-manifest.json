@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7aa7db6c.css",
+    "main.js": "/static/js/main.e6efb5c8.js",
+    "static/js/787.55fdf77c.chunk.js": "/static/js/787.55fdf77c.chunk.js",
+    "static/media/pic7.jpg": "/static/media/pic7.3e58848a03a97237fe7f.jpg",
+    "static/media/pic6.jpg": "/static/media/pic6.521c9cd68c6890b9d241.jpg",
+    "static/media/vila.jpg": "/static/media/vila.ae50f563a1c80af13b59.jpg",
+    "static/media/logo.png": "/static/media/logo.23b6593d1b2349b54f28.png",
+    "index.html": "/index.html",
+    "main.7aa7db6c.css.map": "/static/css/main.7aa7db6c.css.map",
+    "main.e6efb5c8.js.map": "/static/js/main.e6efb5c8.js.map",
+    "787.55fdf77c.chunk.js.map": "/static/js/787.55fdf77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa7db6c.css",
+    "static/js/main.e6efb5c8.js"
+  ]
+}
