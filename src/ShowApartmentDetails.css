@@ -1,4 +1,3 @@
-/* Basic Styling */
  html, body{
     height: 100% !important;
     width: 100% !important;
@@ -13,7 +12,6 @@
     display: flex!important;
   }
   
-  /* Columns */
   .left-column {
     width: 65%!important;
     position: relative!important;
@@ -25,7 +23,6 @@
   }
   
   
-  /* Left Column */
   .left-column img {
     width: 90%!important;
     margin-top: 10%!important;
@@ -41,9 +38,7 @@
   }
   
   
-  /* Right Column */
-  
-  /* Product Description */
+
   .product-description {
     border-bottom: 1px solid #E1E8EE!important;
     margin-bottom: 20px!important;
@@ -68,7 +63,6 @@
     line-height: 24px!important;
   }
   
-  /* Product Configuration */
   .product-color span,
   .cable-config span {
     font-size: 14px!important;
@@ -78,29 +72,11 @@
     display: inline-block!important;
   }
   
-  /* Product Color */
   .product-color {
     margin-bottom: 30px!important;
   }
   
-  /* .color-choose div {
-    display: inline-block!important;
-  }
-  
-  .color-choose input[type="radio"] {
-    display: none!important;
-  } */
-  
-  /* .color-choose input[type="radio"] + label span {
-    display: inline-block!important;
-    width: 40px!important;
-    height: 40px!important;
-    margin: -1px 4px 0 0!important;
-    vertical-align: middle!important;
-    cursor: pointer!important;
-    border-radius: 50%!important;
-  } */
-  
+ 
   .color-choose input[type="radio"] + label span {
     border: 2px solid #FFFFFF!important;
     box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33)!important;
@@ -120,7 +96,7 @@
     /* background-image: url(images/check-icn.svg)!important; */
     /* background-repeat: no-repeat!important;
     background-position: center!important;
-  } */ */
+  } */ 
   
   /* Cable Configuration */
   .cable-choose {
